@@ -1,0 +1,692 @@
+
+[Peer]
+PublicKey = E85xjB4C/Czlt14DwK8x4RJ/dVR/uA+a8JujP29sUns=
+AllowedIPs = 10.66.200.100/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = YC+lCo9hpgklyT5zM+kOJitly6dTJnId5w0RMKcq4Uw=
+
+
+[Peer]
+PublicKey = zv5IHpeukoDLa3mCSKeHkoIruhoBoMA1fgIP8xGANhg=
+AllowedIPs = 10.66.200.101/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = gCrmmtMvNqh4Z671DfRqUqcqiqvDaXnBrgWyg6IFnms=
+
+
+[Peer]
+PublicKey = 0bGBxArllZpD/NV8VqkCeRwKgsyUXYz8YdPGd7RxGm8=
+AllowedIPs = 10.66.200.102/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = uJVbyb5QTQQxWFEIwJ5Gfy/ebukBcWYGFMSCDHISgm0=
+
+
+[Peer]
+PublicKey = 0cj0fKbF9ctIOB5yG3ijU50qo9aNHuzJ1X8Fjk5okWs=
+AllowedIPs = 10.66.200.103/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = MKJSipOBXFVCI+REYWbEWxq1eo9AnNonz6I3s/KrXnI=
+
+
+[Peer]
+PublicKey = bU5hTBnxOhwYS6zupXzsYwNzQWxcWDWmHWJyZCF2fAY=
+AllowedIPs = 10.66.200.104/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = wGVzYqApmfW0QuV4lYpqiZ41XG4Gu0m8YjrrOTVA4XY=
+
+
+[Peer]
+PublicKey = b9vvzZqfktP21XPROxQ+BGw2O2OAKQrlkavyIShCzQ4=
+AllowedIPs = 10.66.200.105/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = GKBuQDkI4LrpH0jN3GS01K0LRc7FTEOmRIs37CK9tWE=
+
+
+[Peer]
+PublicKey = uQd9oan0o6CiCJw7wRnPqa/niFprwRIgkLQqtBgkryk=
+AllowedIPs = 10.66.200.106/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = KClcRjxpixO5m+0WCaimsUdOLewq5Gfx+jCUrueJ4W4=
+
+
+[Peer]
+PublicKey = pHTylBYRA2glN8Tnkgk9F6lUpDlN3/ly7pq0JDWiYAk=
+AllowedIPs = 10.66.200.107/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 8Dqvw6jU0bUV9y8SEYFNGa2QAipGVreKZ+ZazDRsBlo=
+
+
+[Peer]
+PublicKey = FC1bE+b/Uvpwg5GxrD+L4lXK9VGtC9i1wOruxDWUTzo=
+AllowedIPs = 10.66.200.108/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = wJc/qG2IV3ERdIEr0hPZTOLhsbB5McZh/rp/TL6ay0k=
+
+
+[Peer]
+PublicKey = fD6kmvq+bI88onHs4JDRM5tlw9r3EXR3rKms1eqFCBA=
+AllowedIPs = 10.66.200.109/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = oBB3RsZdWEjp2X0NjI/auODDoEAZ+ATxFRJxGZLCMkI=
+
+
+[Peer]
+PublicKey = hDdsq2+FZZtByjEulCR4MfzCvuqeoE2d3issms5U6lQ=
+AllowedIPs = 10.66.200.110/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = KIexWGu6VxORPbXQ3lsA3fYzoTYGE6CNT3DHZ+NKfEU=
+
+
+[Peer]
+PublicKey = pXUyHQVp8GUn5rwfMvC7EFQGg0HO3o2FyJ2nXY6P/Qw=
+AllowedIPs = 10.66.200.111/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = +L3tmPyKX7NB54p+gYVNri8LdDoMA8/EoRJo1Z1+/kE=
+
+
+[Peer]
+PublicKey = vyvsZ86BzQTJee5uHuhuc0zt3lKQ6QIrB9jphxACpQ0=
+AllowedIPs = 10.66.200.112/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = IKvd0Rfe+JzBvY2HLgFDLk4SRGi+NZ0GCoRJGyEsqnc=
+
+
+[Peer]
+PublicKey = z2V8CmTmlZ7s/zVU9w1lb/n2p8qqO1un2G+GXGcIvHE=
+AllowedIPs = 10.66.200.113/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = CH5ZBE1RqN3U8H2DgAFjvDYsIVmL1Q4DrEpDzlqo6EQ=
+
+
+[Peer]
+PublicKey = fmm+uRnNjBUTGPzJvRd/qdWOGqD+iOgGWpoBoXdnphA=
+AllowedIPs = 10.66.200.114/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = +Co8grMlznCYe07ORX1xzZrAmrrcRAjDe8JO1Pq/40Y=
+
+
+[Peer]
+PublicKey = 02YUmCyuDmIrcOnM+pFQSOCBUiwQ5bHwZF9fXjbgHmI=
+AllowedIPs = 10.66.200.115/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = ACGpOtjvrMboHZ5skONLcwVEvtL39KUj/T/WRaFGSns=
+
+
+[Peer]
+PublicKey = u7Mdp0595Z1EzVmcH30ylQ7qTOw4NsEe6UKd/caCP3Y=
+AllowedIPs = 10.66.200.116/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = YM+u65IBfiooO5f89cXe9ON04HH5Divq3Qrg092nuko=
+
+
+[Peer]
+PublicKey = mpRPz/XFaTCcFVbWDFvv/y7aTXbJ6Euk6N/HQrn3W00=
+AllowedIPs = 10.66.200.117/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = mPr8c+XgGKcj91w87UgnslwdEmDkmGfcpep3O41I+WY=
+
+
+[Peer]
+PublicKey = /weN/+NRSo3JWKkOFVHFCjYxN2RxLCsrHQdEmSxBzRU=
+AllowedIPs = 10.66.200.118/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 4GFeMgkcXPSv1ArRPO0xwjv0pQNeG+AOKJMNwIJ+b2w=
+
+
+[Peer]
+PublicKey = qTn2hgkhXoLCqRBegkBt+VL5IJP7utYwgBrs9uRz5F4=
+AllowedIPs = 10.66.200.119/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = cOC0gs3qQ7g+egR/mpaIw7y5E0Se8vrFtHaS740y/k4=
+
+
+[Peer]
+PublicKey = XByapn+H2bGcyZzKxZAPH1zpr2VADbpKs5nv2CLqgVk=
+AllowedIPs = 10.66.200.120/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = aMJ/a4RA67WxWgq9YypI3pVa+bh8367coKI+FoYvY3U=
+
+
+[Peer]
+PublicKey = gNqL/cKyNNOeM0NpBUV1/xTCjSjLzhe7LA7UayhSY3g=
+AllowedIPs = 10.66.200.121/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = MJnTWXGFFLga6A+7RR7Cg88x7V7FnkW1AVunK2sIr38=
+
+
+[Peer]
+PublicKey = mtiBygkgjsfQtAhjLkDKkWZniyAZm5oWidbA59yIuxo=
+AllowedIPs = 10.66.200.122/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = WNdsDilZT7zNOmEbHBUJpVZzjdeoukdU2xt9boIm8ng=
+
+
+[Peer]
+PublicKey = OJwWE2nxM/Qlf54OxAqyoYLQ6MA9Cfxx/joQAiErmTU=
+AllowedIPs = 10.66.200.123/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = MJsWcns8EZe5mcyh3+RSsyX6cU9t4E91mvesM9bnhnI=
+
+
+[Peer]
+PublicKey = lw9C6QbYCuCXycd2NtEhkgphXOxMKyFKNDjMfOy+CXM=
+AllowedIPs = 10.66.200.124/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = AA1DEKTHwypw0sWS2hOeBhO0Dvk+h2Rzt39TWwcYlX4=
+
+
+[Peer]
+PublicKey = vPBTMp4jOamj7LW/+0p8wUOvoXmDAnsuVacpqodVAkA=
+AllowedIPs = 10.66.200.125/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = eCeqnD9DYdWZBG0agtj9dqt8BT1iBmS/136EAyMXGEo=
+
+
+[Peer]
+PublicKey = yhBhX8GP5JZVH+RjxZkHo9zjkepVyNHmL6tIzc0d70c=
+AllowedIPs = 10.66.200.126/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = YCkt9PmyrhDJV/V7C7lgSceMJdOVT9JEVznAG566pEo=
+
+
+[Peer]
+PublicKey = +5bvq5bNCyd2qa/d4FtEernCm2Y98V+tf13/vvnpI0s=
+AllowedIPs = 10.66.200.127/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 2OP9Z/k+bXOp367QUWDSnT9xNbUH1BYFdJf+EV09Akw=
+
+
+[Peer]
+PublicKey = Hi0tcTUEwaQqZ5AAjToIy30dB8NgAa0OuT1xN0qQxRY=
+AllowedIPs = 10.66.200.128/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 0MPZI+qTgHnUNOZkEsTmnGzecrvvWhdcNxWVD6c6vEE=
+
+
+[Peer]
+PublicKey = N5jt3meHWJvaZEbs92Zd+ywAHMUUt5ShJ/sxDZF/x2w=
+AllowedIPs = 10.66.200.129/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = oMDOtnpJ0AqyjFHkqBnUp61HK41g54/Cd4I2pTloDFs=
+
+
+[Peer]
+PublicKey = OhLWjEkRYqIG+LdlI6ZeqdY7cGUh7sCaaFDy1EV+m2M=
+AllowedIPs = 10.66.200.130/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = kD4MEdkAzsNz2lR3glfeyTDEmxzTtbBbZ5T58Mr4mFg=
+
+
+[Peer]
+PublicKey = chW3Wj4aDonldYFyNcbTl1bFRhdkTHIJkx5M/0FUKh8=
+AllowedIPs = 10.66.200.131/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = CFnLOUA8gcf71JlEBfjK2d5XW+mnouqUiAn+/PdQTno=
+
+
+[Peer]
+PublicKey = 9AXYbiVZszIjkoHwFF0aO+ojcL8nnAPuF+VYvq3ngBI=
+AllowedIPs = 10.66.200.132/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = aOH12kVfh+Vm+DFiVkEx+PsZVM8ACmjmUtAiSDzjaUo=
+
+
+[Peer]
+PublicKey = u4LcXZyerghajPM2W2QpPsjwJ2rj0HirLBJskpIHM2E=
+AllowedIPs = 10.66.200.133/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = kIEGrI1rSc2Nq/KR9PJ7AbjsdKFxYSTLmPBy3bU3gmU=
+
+
+[Peer]
+PublicKey = Bxv2iAkJaBGcphROeu1RW+DEw2XxBbGu434ohziBfm4=
+AllowedIPs = 10.66.200.134/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 4EbEbfOhFNKWCLk9kHd6l+2kSpLN0Ud2TE7RN+06Hnc=
+
+
+[Peer]
+PublicKey = iT8bo49agKkWMiPKQhNQ5qdUdrgPtVARf7v1HT+YWQM=
+AllowedIPs = 10.66.200.135/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 0MVAuFX4MzIxXrSRIkZpfwTJwvDX0xWsA/lx6BS66X0=
+
+
+[Peer]
+PublicKey = Gaqkapf0IxcA6X1gZsZEstmbP39Hvt8VMEQP1xS4Kxo=
+AllowedIPs = 10.66.200.136/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = oMo4jTRwEIwwFvFpwFmDKASVDQ9rDgb82Tc0V/lXB00=
+
+
+[Peer]
+PublicKey = iDui2Sm5ghbf/8eucLng92J93/gRhXkJh+SfjjmWTng=
+AllowedIPs = 10.66.200.137/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = OCQpMzIqg7LROgpH3pQIqwGycn7iLKxEQWnzxpCke2s=
+
+
+[Peer]
+PublicKey = P8XJu03+VloeZXkB0Qiccxbu8Yc8gRttxSp/B+HLwgo=
+AllowedIPs = 10.66.200.138/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = uPAEcjSmEsLR+ZX1KHkGgypR7PqUuKtV2v3VHgc7/FQ=
+
+
+[Peer]
+PublicKey = Rw2vQvH2Z1g6WzHwzazfPKEytW10ge+TkkSuBgYcjRE=
+AllowedIPs = 10.66.200.139/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = SJ0Ra15r/k9q8zCInb2guoOMt4Bvl0ZCISAeAJ7CMFo=
+
+
+[Peer]
+PublicKey = bnxmtoN+c6Fuc2r15i3J8VpzmQMzR7Jjrs/GWxAVGjI=
+AllowedIPs = 10.66.200.140/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = UPkanomMn9cqYkx0mUmYg0qaGE7prSnbK2EVESi8mmE=
+
+
+[Peer]
+PublicKey = 1p+23S3KWMvd7KnS6p/HWg38I6zTwpiiAj3SmYbdRVE=
+AllowedIPs = 10.66.200.141/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = oKEHf7Ig6VyrwQBYTJUsFjjHFptV0FAQm4QCyoKYBVY=
+
+
+[Peer]
+PublicKey = KfWUUT+shnqv6hYAIJAZwCwLhEnxVkwdw2HRADUAkRI=
+AllowedIPs = 10.66.200.142/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = cOqf4PpRwLOSnivEuXNNldigygUnHBJPMrdLr/tAYH4=
+
+
+[Peer]
+PublicKey = hsbMmO+zclLsK+NRUGY3oRYFshx53/R1UnlhvC9IaHU=
+AllowedIPs = 10.66.200.143/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = wNO746RgEjie18Ya41Lr4XcETXplPkmMgeANKIRWDVI=
+
+
+[Peer]
+PublicKey = q+P64eeIxC2ylsKP+9RpUQAhUQTZzNZMbdseXW1gcQI=
+AllowedIPs = 10.66.200.144/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = EFX2zcPF9t5xMf9v8HVjoPqdkDRrOpJUShPK7ndyBm4=
+
+
+[Peer]
+PublicKey = GcsBfenwoCnoYAh5+jgV2psTbpfmO0+tUWPcSbvzm3s=
+AllowedIPs = 10.66.200.145/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 2IvRw9DovLKS7LObF3N/VjSSsSYc6TcToOLRk2d7VEk=
+
+
+[Peer]
+PublicKey = Dy2voB64LqGTqMKdm2Z8c6MHIH2FB7/IEgrddDdMuRI=
+AllowedIPs = 10.66.200.146/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = WN4FPq6RRAhjThUomrZfKTs8ZTAnBUYYkYCAM5J9ZXg=
+
+
+[Peer]
+PublicKey = 4fA2WReKD1daEH28Tr3TN7wOrq7w8d47qe/VqpIf6Wg=
+AllowedIPs = 10.66.200.147/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 0IfPhJHx61Xwg6LRNcu2TiWoSmU2P3JtyjnzqfKDt2M=
+
+
+[Peer]
+PublicKey = WoWYaLCXBPYDkJKtO45ZT03IiVqOii3McShsKkoB5zE=
+AllowedIPs = 10.66.200.148/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = AOl4q8sFC/iyGV7GhfggqC0FtAAg5YCmhF+4e21pPUw=
+
+
+[Peer]
+PublicKey = 7/UQshWOaQL+a7MVlxUs7cIATkUsrHTeMiysSQju5X0=
+AllowedIPs = 10.66.200.149/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = gMQTxbQ3HMB7w9EWDjtJ0qj6BQiCdh3CodDwrX+r3m8=
+
+
+[Peer]
+PublicKey = /bCfr3NPdbldS/y1txwmoddG3sUfM26Yb8vaDLZjWS0=
+AllowedIPs = 10.66.200.150/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = aKtOvUrfTFPDUme3/owBrPpe48jSSwpWCEmyN044rGA=
+
+
+[Peer]
+PublicKey = VDmwzS7NjysklfPZJLoI/gha/Hl+ycLPmXczQt9uhQ8=
+AllowedIPs = 10.66.200.151/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = OAjCgj5Re3Y5Y5DHjKOsFRTO0EhYbcotRynpb102Rnc=
+
+
+[Peer]
+PublicKey = xklJrpudHDRvIiYrkEPd02xYEX82g6LU0dz1Yj8cMBk=
+AllowedIPs = 10.66.200.152/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = aF1J+qyjJISsLNRQAJUEjs7MnIXXFreCDvuWBzC771A=
+
+
+[Peer]
+PublicKey = Jm/LdqXCZSmNRUNpvfVFDeX5ljBJ/dDL6uknWVkcFXI=
+AllowedIPs = 10.66.200.153/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = gGKIm5QbYyn9lWukof3UConAOJbJOIeL1raWNO+aCEE=
+
+
+[Peer]
+PublicKey = tCoe3Ejde2FndPuK3zpX7AZTTNEqmKTG9g5BAkJ5eU0=
+AllowedIPs = 10.66.200.154/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = aNuWFcaL/isjqwF+nb61PUADGdPM2//W/SkleGzGpVQ=
+
+
+[Peer]
+PublicKey = wvZ5/8PIKEGmUHdRJlmuEWPc2ReYEaIhtoqfDO6qkRY=
+AllowedIPs = 10.66.200.155/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = +EY0sR4hC1AGexMXmRx7itC2c50xW271tXx8Fke/PFo=
+
+
+[Peer]
+PublicKey = g1WdDAc43raqbxP7xg0uKK0KvZaQxSpD55fW2J1h61c=
+AllowedIPs = 10.66.200.156/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = CMUCxYI+o7SZVjondBNKIQPa9beXb4kCQVuoKDGL9lY=
+
+
+[Peer]
+PublicKey = fy8oVLNv2c3D/gIVfsIgZImnm5QjGRs4EJDAiqes3RE=
+AllowedIPs = 10.66.200.157/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = eG0lP+G6CH+tTvzcIpJcTNQtE48njS7/69P7vy8OWGY=
+
+
+[Peer]
+PublicKey = FndP5o3/P9teNnZ0qgQh4/aapHUOkDDNdpZ4oTRrUUw=
+AllowedIPs = 10.66.200.158/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = mKQirm9fxtT+q335u01NF0qXer+rw4J5DDVZPcRUUEY=
+
+
+[Peer]
+PublicKey = NIWAsEQatWtZf0OEP1gnnjrDb8peyMEabZTcWXxeOXU=
+AllowedIPs = 10.66.200.159/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = mIuQwFQBJyTt2CZVyZHinhIGKT2SdWrehKSarZJbrkU=
+
+
+[Peer]
+PublicKey = YrdiObFC+bQj3wdErI0Vrv81+sFUGDQtdxAPrDfyh1g=
+AllowedIPs = 10.66.200.160/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = gNPM2OW2Ch83IsnIbClWImHF9KQzDAiMx++JoNgnXVw=
+
+
+[Peer]
+PublicKey = 6g/CC1z558TZLi2uSHpccAihA2NsZ8dBbiRb3AnGjiw=
+AllowedIPs = 10.66.200.161/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = CGB1No9K5lndz+1JKtBXmdPC8ZpdM/tHItaYE6L5u1o=
+
+
+[Peer]
+PublicKey = 6BXd5gC5/qyfqCmUa1vdw5VOUeBWNyQJJvCxXY3l3UQ=
+AllowedIPs = 10.66.200.162/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = KOyXFrSr3jOMLVnXYbnhPJK8fBQmflHAjmyx8jt1eFQ=
+
+
+[Peer]
+PublicKey = 4RMr1BJHYNdUcVEr7Wplf/ESIlrwcn5yT090oRtmgBw=
+AllowedIPs = 10.66.200.163/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = QOOLEAmLUpStM5OQl/m+YXFnxU2UeU2wKm41HIlaHWk=
+
+
+[Peer]
+PublicKey = /hA51dB2daVBzFtNZ5qQGfxUm2WR/M0CNjNLokXiUhw=
+AllowedIPs = 10.66.200.164/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = OAKfVNwwtZivSZpsB32g2lPonMM+FaDzMXjQwLupT3U=
+
+
+[Peer]
+PublicKey = S3V41khmwwMiP4h3mAtFd3UbrcdhRWxqoRK3d9IV9F4=
+AllowedIPs = 10.66.200.165/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = uLyh5Xhk9alfYYhaC1ofIKktM0PxkfHecSkLjMUlSEk=
+
+
+[Peer]
+PublicKey = +Xwih9tO/8xou4IoWnIr+agGR9QGSrfMtIpYmsRKkxU=
+AllowedIPs = 10.66.200.166/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 6JX8MelNgNk/+LKtWRzN2I4WC8xRvdoJTYCojq6Ru3U=
+
+
+[Peer]
+PublicKey = +I/3D4kLorWMp4hIhDakwuqTIEqXucILhM3yd8IdqDs=
+AllowedIPs = 10.66.200.167/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = iACB+hKLD37mkBLxt0chhtcOeOCiMPZM60F6Vn7ZaFc=
+
+
+[Peer]
+PublicKey = KOibB7IqujMjAgYsZjbuM/QrkLkgNFXH9DaG7KYA8Vw=
+AllowedIPs = 10.66.200.168/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = gOf0zT2PyrQ9Gots6xs8Fi6hoMLro926mE8UwwJfNnQ=
+
+
+[Peer]
+PublicKey = oGrjpBJIB1Jo8BpRprBMJhjrcqk0GSjGaJ1QP2U4WRQ=
+AllowedIPs = 10.66.200.169/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 0GDrFQklDtyKYmJVYcgNNn1Ik0bspVv0iT+VEtNwk0o=
+
+
+[Peer]
+PublicKey = NnMmGj7tGUeieaOo3ZI22oYi/FDC6TvkfkLiLlK3cCc=
+AllowedIPs = 10.66.200.170/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = QLVGiXMpgN2Kr7NVcpUQqNbP36D4SE5USSSQiz7F1VA=
+
+
+[Peer]
+PublicKey = geE7PTMI6csBBkTt9ZkQJi9014LtUWqgv9/ZHbi5uFE=
+AllowedIPs = 10.66.200.171/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 8L7OYFbqaoNgNUmgIc2K7BpBy1oZJWeSoasuowL/cns=
+
+
+[Peer]
+PublicKey = T7ANPsPiwzC4OI6ec1HpH5AQkl7maAPaJvLOf+DnSzw=
+AllowedIPs = 10.66.200.172/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = OMUWdy1VMzcn/SYqrnhs7DvwdAq4TUhDbDb/LK/b308=
+
+
+[Peer]
+PublicKey = HUy/D6huF+GVLp37sKB7DzEIF3UDc+kCUhe8X0P7WRk=
+AllowedIPs = 10.66.200.173/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = oFzBWEZPi3WrULnPJyXvEF4czoRTfjVv7T6kC2FEomU=
+
+
+[Peer]
+PublicKey = Qna+QmyS9xJJpo20TrXD4XJZDEIeBgvdMYlc0+W4zFM=
+AllowedIPs = 10.66.200.174/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 8EGz8u/sQOUsU75Gy0NXQk/gpSth21CdSG+jk0FHuVQ=
+
+
+[Peer]
+PublicKey = nPNB7CUdKnH6u7dSqfzK+PQ39yyv7KGN8Ex0BVUJli8=
+AllowedIPs = 10.66.200.175/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = qGKFWfSZKP8c7NRjVBz8ecNeViK8gDhRcpQgSvG1vWE=
+
+
+[Peer]
+PublicKey = yAwcCmVs5zQdLQYDqbwiH3InEiQx6qcjRHci159IhH8=
+AllowedIPs = 10.66.200.176/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = uJWswOHTdkgJ79BAaqQf0aMgLV/jMBpxtM5ez6yp5WI=
+
+
+[Peer]
+PublicKey = 7CEA0Est8Lh+JnHUoEb5pLE12J+uvwhsUyTwDxkbYQc=
+AllowedIPs = 10.66.200.177/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 8AIkAXw6Ex2gBhFZhpjGEp5JMz4tIvwY8l9TNTSpRmc=
+
+
+[Peer]
+PublicKey = yWFDmT9Vcx2tnH0vh8X5lOFDyitEFGX3G0X/qBiRMnk=
+AllowedIPs = 10.66.200.178/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = oClXjxuH+0RdxuZcbPIt7TKy9/frtm08OS5olPDI7lA=
+
+
+[Peer]
+PublicKey = hue63cYbAz5xUvQVwOtoaqRlHy+pWVztfQdkgQ72FTo=
+AllowedIPs = 10.66.200.179/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = yB1n68KlNxjXoURgHinQVsFbJXzl0YDFOUEOg1MF8Fg=
+
+
+[Peer]
+PublicKey = HC6kHOnKXTDFxSIIahbIFoJq3D4WtJw9nZbMD1yF/2I=
+AllowedIPs = 10.66.200.180/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = iAaHCIYyTzaXMhv8DpsVyJxC7ZUZbeSJNA4jOoYkXlA=
+
+
+[Peer]
+PublicKey = Guq0PnsXVy3CWx/h8GrLcRsFPMmscOEVzcJrFx7k2j0=
+AllowedIPs = 10.66.200.181/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = cHJ6edEjaDpbjn38OS82zXBWCwUsvDDBRWIoq8z8m3M=
+
+
+[Peer]
+PublicKey = t0TT1u2rZEP20mj8HYPO08i2Nf1i2tqZsG7xyhvlgiY=
+AllowedIPs = 10.66.200.182/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = sFkJ0bFDdpHb7jxVtXd9LJ/oNQTVc2KQBIKrzxiPnm0=
+
+
+[Peer]
+PublicKey = x08MLyNDS09uad3vSFFeUQF6OeVRc8we/x1bxnbIJ0g=
+AllowedIPs = 10.66.200.183/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = oDjU1G5r7rkQrTZMEPMLAAGKoWhlRrdcMi5AmduouUI=
+
+
+[Peer]
+PublicKey = GgOy7n+7lqIOZl6mJircD1orSuxCYy1BmaHoBWl4mBQ=
+AllowedIPs = 10.66.200.184/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = KNtK212e7vXx6nVZlCVePBK5xYzgYQGOktor16h+eGY=
+
+
+[Peer]
+PublicKey = qxy15MQ84IKJbLpI3YkrMLNyEpDoA29cDaiupZkLxSo=
+AllowedIPs = 10.66.200.185/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = kAUshEnBq2rNvjGWDl1HDFKp/Nsy0X8ZY/iqck3uu2U=
+
+
+[Peer]
+PublicKey = dKkZGhwQOx06U8le0g4QNgBeurR+bWPKu4tHBaTdfEY=
+AllowedIPs = 10.66.200.186/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = aC2gSeqMBXMXRRlEdSq8SjhGeEP6GIIZvx5VYFe6vFI=
+
+
+[Peer]
+PublicKey = up7hsjxSh67TOZ1fSZLo4g7T9u+AAPXHkJtoxYn89G8=
+AllowedIPs = 10.66.200.187/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = iFCbiEkJuQHzZX7n6AfIgAmxhROxdr1skKTEeZTYD2E=
+
+
+[Peer]
+PublicKey = Df67ylLNzdDBFlD4U3qKl3udKkgveTLIo+vIBFIK3DI=
+AllowedIPs = 10.66.200.188/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = cGCl8OmzeJ6yTghOR3/GNLbw3VKvQAOg4s6vzoT+IHI=
+
+
+[Peer]
+PublicKey = 87N1D2Js8IJEIOTtOfki8j/u29Gkwcw48tF1om1YH3w=
+AllowedIPs = 10.66.200.189/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = eAG6wfJKK19TsYIybPB9BmcH/Qf1w4ArCnF+2iRTIE4=
+
+
+[Peer]
+PublicKey = 0kO06B2PzvkWv7GPB8BxohXs05XTgg7NKvdxVChCZDo=
+AllowedIPs = 10.66.200.190/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = sBF+ce51hhV4CbgMJp9Oz9D1nYU+Pgu+Q6T5g53leHk=
+
+
+[Peer]
+PublicKey = tKqNUTe5qHezLNgDKHPn9CDWeD7Z+tsskHjP1JDUDDI=
+AllowedIPs = 10.66.200.191/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = eLQFonpGoPI4ub/6/iZexnbMdsMeJD761z0R/lWvZWc=
+
+
+[Peer]
+PublicKey = MTCbczGkMQDNBYsHMBEVg7uYXL3dQkFsjezL3MXvM2Q=
+AllowedIPs = 10.66.200.192/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = uE1aNDDMhWfeeTRdrgBbiwUAc9+QdwneYJik8eX+DW8=
+
+
+[Peer]
+PublicKey = 0c8vXg/rYjVshrEG8VhCRsUMQODJ80JgbJgcDsSp8FI=
+AllowedIPs = 10.66.200.193/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = WJ3Z7ZmHkHaBFB9xDsAndS4YL7jKKGwT/xsEdoCNulA=
+
+
+[Peer]
+PublicKey = emjzBxPj8oFGNFJRnipOLIAO+e4fix2PJDZWnIQKzns=
+AllowedIPs = 10.66.200.194/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = OCbUosBC1VyJC7cqANoBPehCqmfEffyzmFYsUAf/tmU=
+
+
+[Peer]
+PublicKey = fM3yhlXB/s9zzMc/4lPtHIznSG24amrfDmI/5TgK7Dw=
+AllowedIPs = 10.66.200.195/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = cGk0OBK/PYM6NeJtnvfjm2nuEZAqE7rQCjGzZhfYcUw=
+
+
+[Peer]
+PublicKey = lPy4MDC3j7PwrttLmxHf5BEtl+sGWarsZzyYcCfwnTM=
+AllowedIPs = 10.66.200.196/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = 4HwZB2rHqqGfN3y7xjRUnRvAzfTV3+iKS7nFL6Metns=
+
+
+[Peer]
+PublicKey = vVEmqyjznufls1pEPdJqRPYWyMuKOnDOyGkql3y/KnI=
+AllowedIPs = 10.66.200.197/32
+Endpoint = 1.1.1.1:1111
+PresharedKey = IIDf7dJzntKFACKWtj03RvlsejUOnyka/qAaEomAM1w=
+
+
+[Peer]
+PublicKey = EKDwqC+xB799M102Nx8HR1BRgrJk4r3y1jL9xGweNWc=
+AllowedIPs = 10.66.200.198/32,0.0.0.0/0
+Endpoint = 1.1.1.1:1111
+PresharedKey = kEboiwI4kQlspRJ4m2zWfX59QSro8K+LNlB+j2w62XE=
